@@ -2,7 +2,7 @@
 
 ## Summary
 * [Introduction](#Introduction)
-* [Project_Description](#Project Description)
+* [Project_Description](#Project_Description)
 * [Schema definition](#Schema-definition)
 * [How to run](#How-to-run)
 * [Project structure](#Project-structure)
