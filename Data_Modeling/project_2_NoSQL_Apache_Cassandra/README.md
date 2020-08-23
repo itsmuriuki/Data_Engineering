@@ -35,8 +35,7 @@ This is the project structure, if the bullet contains ``/`` <br>
 means that the resource is a folder:
 
 * <b> /event_data </b> - The directory of CSV files partitioned by date
-* <b> /images </b> - Simply a folder with images that are used in Project_1B_ Project_Template notebook
-* <b> Project_1B_ Project_Template.ipynb </b> - It is a notebook that illustrates the project step by step
+* <b> Project_2_cassandra.ipynb </b> - It is a notebook that illustrates the project step by step
 * <b> event_datafile_new.csv </b> - The aggregated CSV composed by all event_data files
 
 ### Project Steps
