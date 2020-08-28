@@ -6,6 +6,7 @@
 * [Data](#Data)
 * [How to run](#How-to-run)
 * [Project structure](#Project-structure)
+* [Notes](#Notes)
 -------------------------------------------
 
 ### Introduction
@@ -71,4 +72,19 @@ Project Template include four files:
 
 5. README.md is where you'll provide discussion on your process and decisions for this ETL pipeline.
 
+### Notes 
+
+1. Import all the necessary libraries
+2. Write the configuration of AWS Cluster, store the important parameter in some other file
+3. Configuration of boto3 which is an AWS SDK for Python
+4. Using the bucket, can check whether files log files and song data files are present
+5. Create an IAM User Role, Assign appropriate permissions and create the Redshift Cluster
+6. Get the Value of Endpoint and Role for put into main configuration file
+7. Authorize Security Access Group to Default TCP/IP Address
+8. Launch database connectivity configuration
+9. Go to Terminal write the command "python create_tables.py" and then "etl.py"
+10. Should take around 4-10 minutes in total
+11. Then you go back to jupyter notebook to test everything is working fine
+12. I counted all the records in my tables
+13. Now can delete the cluster, roles and assigned permission
 
