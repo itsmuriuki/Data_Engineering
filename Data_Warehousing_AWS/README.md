@@ -1,4 +1,4 @@
-# Building a Data warehouse and ETL pipeline on Redshift
+# Building a Data warehouse and ETL pipeline - Amazon Redshift
 
 ## Summary
 * [Introduction](#Introduction)
