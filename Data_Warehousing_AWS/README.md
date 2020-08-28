@@ -6,9 +6,6 @@
 * [Data](#Data)
 * [How to run](#How-to-run)
 * [Project structure](#Project-structure)
-* [Project steps](#project-steps)
-* [CQL queries](#CQL-queries)
-* [Notes](#Notes)
 -------------------------------------------
 
 ### Introduction
